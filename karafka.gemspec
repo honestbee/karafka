@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'worker-glass'
   spec.add_dependency 'celluloid', '>= 0.17'
   spec.add_dependency 'envlogic'
-  spec.add_dependency 'waterdrop'
+  spec.add_dependency 'waterdrop', '0.3.2'
   spec.add_dependency 'rake', '~> 10.4'
   spec.add_dependency 'thor', '~> 0.19'
   spec.add_dependency 'activesupport', '>= 4.2.5'
